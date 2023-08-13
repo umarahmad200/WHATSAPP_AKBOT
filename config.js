@@ -11,12 +11,12 @@ global.github = 'https://github.com/akshitbhatia2004/WHATSAPP_AKBOT'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '919971606684'
-global.devs = '919971606684';
+global.devs = '923052362330';
 global.website = 'https://github.com/akshitbhatia2004/WHATSAPP_AKBOT' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/ghex9sW.jpg'
 module.exports = {
   botname: process.env.BOT_NAME || '𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏_𝐀𝐊𝐁𝐎𝐓',
-  ownername:process.env.OWNER_NAME || 'akshitbhatia2004',
+  ownername:process.env.OWNER_NAME || 'umarahmad',
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'false',
